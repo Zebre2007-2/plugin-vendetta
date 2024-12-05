@@ -1,0 +1,14 @@
+{
+    "name": "Translate",
+    "description": "Translate messages,
+    "authors": [
+        {
+            "name": "Zebre_2007",
+            "id": "1196138101140115720"
+        }
+    ],
+    "main": "src/index.tsx",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
